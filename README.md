@@ -3,7 +3,7 @@ OracleSQLDocs
 
 Easy documentation and examples for Oracle SQL.
 
-Maintained by @JoshuaKennedy and @cbjjensen
+Maintained by [@JoshuaKennedy](https://github.com/JoshuaKennedy) and [@cbjjensen](https://github.com/cbjjensen)
 
 Look at the [wiki](https://github.com/JoshuaKennedy/OracleSQLDocs/wiki), _**LOOK AT IT**_!
 
@@ -11,4 +11,4 @@ Look at the [wiki](https://github.com/JoshuaKennedy/OracleSQLDocs/wiki), _**LOOK
 Database Concepts 7th Edition by Kroenke (ISBN: 9780133544626)
 Murach's Oracle SQL + PL/SQL 8th Edition by Murach (ISBN: 9781890774509)
 
-Some of our examples use tables from the Murach book.
+Some of our examples use tables from the aforementioned Murach book.
